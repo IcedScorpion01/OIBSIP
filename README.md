@@ -2,8 +2,9 @@
 
 # Basic Login Authentication System
 
-This project implements a basic login authentication system using Java Swing. The system allows users to register, login, and access a secured page. Please note that this is a simplified educational example and does not cover all security best practices.
-Project Overview
+This project implements a basic login authentication system using Java Swing. The system allows users to register, login, and access a secured page. 
+
+# Project Overview
 
 The system is designed to accomplish the following functionalities:
 
